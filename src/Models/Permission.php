@@ -27,6 +27,7 @@ class Permission extends Model implements PermissionContract
         'display_name',
         'description'
     ];
+    
 
     /**
      * Creates a new instance of the model.
