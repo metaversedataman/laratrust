@@ -24,6 +24,7 @@ class Team extends Model implements TeamContract
         'display_name',
         'description'
     ];
+    
 
     /**
      * Creates a new instance of the model.
